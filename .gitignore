@@ -21,7 +21,7 @@ venv
 docs.zip
 archive.zip
 *.egg-info
-
+.secrets.toml
 # vim temporary files
 *~
 .*.sw?
